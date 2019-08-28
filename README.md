@@ -6,9 +6,8 @@ Make sure your python environment has the following installed:
 
     Python3
     tensorflow >= 1.5.0
-    scikit-learn
     
-Install the dependents using:
+Install the dependents:
 
     pip install -r requirements.txt
     
