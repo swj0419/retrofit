@@ -6,6 +6,7 @@ Make sure your python environment has the following installed:
 
     Python3
     tensorflow >= 1.5.0
+    h5py
     
 Install the dependents:
 
