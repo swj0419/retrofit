@@ -21,5 +21,7 @@ To run the experiments, use:
 
 ## Dataset
 Machine Translation Metrics Paraphrase Corpus: https://pan.webis.de/clef10/pan10-web/plagiarism-detection.html
+
 MSRP: https://www.microsoft.com/en-us/download/details.aspx?id=52398
+
 Quora Question Pairs: https://www.kaggle.com/quora/question-pairs-dataset
