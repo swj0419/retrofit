@@ -1,2 +1,2 @@
 # robust_emb
-Code of Retrofitting Contextualized Word Embeddings with Paraphrases. (Coming soon)
+Code of Retrofitting Contextualized Word Embeddings with Paraphrases. 
